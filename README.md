@@ -8,4 +8,4 @@
 ### Nog geen idee.
 
 ## Code:
-### ![alt text](https://www.clipartmax.com/png/middle/400-4000927_python-logo-clipart-transparent-background-python-logo-clipart-transparent-background.png "Logo Title Text 1")
+### ![alt text](https://cdn.iconscout.com/icon/free/png-256/python-14-569257.png"Logo Title Text 1")

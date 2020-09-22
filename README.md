@@ -1,9 +1,11 @@
-#les 4
+# Opdracht:
+## Les 4
 
-# markdown en github leren
+## Fouten:
+### Geen Fouten
 
-### drie hekjes​
+## Nog te maken:
+### Nog geen idee.
 
-#### vier hekjes​
-
-##### vijf hekjes
+## Code:
+### ![alt text](https://www.clipartmax.com/png/middle/400-4000927_python-logo-clipart-transparent-background-python-logo-clipart-transparent-background.png "Logo Title Text 1")
